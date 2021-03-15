@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\SolucaoListaDeExercicio08032021\ProjListaDeExercicio08032021\obj\Debug\ProjListaDeExercicio08032021.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\SolucaoListaDeExercicio08032021\ProjListaDeExercicio08032021\obj\Debug\ProjListaDeExercicio08032021.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\SolucaoListaDeExercicio08032021\ProjListaDeExercicio08032021\bin\Debug\ProjListaDeExercicio08032021.exe.config
+C:\Users\gabri\source\repos\SolucaoListaDeExercicio08032021\ProjListaDeExercicio08032021\bin\Debug\ProjListaDeExercicio08032021.exe
+C:\Users\gabri\source\repos\SolucaoListaDeExercicio08032021\ProjListaDeExercicio08032021\bin\Debug\ProjListaDeExercicio08032021.pdb
+C:\Users\gabri\source\repos\SolucaoListaDeExercicio08032021\ProjListaDeExercicio08032021\obj\Debug\ProjListaDeExercicio08032021.exe
+C:\Users\gabri\source\repos\SolucaoListaDeExercicio08032021\ProjListaDeExercicio08032021\obj\Debug\ProjListaDeExercicio08032021.pdb
